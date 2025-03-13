@@ -1,16 +1,12 @@
 # Candidate-Search
 
 ## Description
-
-
-
-## Installation
-
+The app helps users search for potential candidates to hire. the profiles coming from GitHub. It will also provide a candidate's general information.
 
 
 ## Usage
 
-
+The home screen will give the option to reject or accept a potential candidate.
 
 ## Credits
 
