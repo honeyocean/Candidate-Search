@@ -3,6 +3,9 @@
 ## Description
 The app helps users search for potential candidates to hire. the profiles coming from GitHub. It will also provide a candidate's general information.
 
+## Installation
+
+Had problems deploying on terminal
 
 ## Usage
 
